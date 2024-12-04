@@ -1,4 +1,3 @@
-from runner import Runner
 import unittest
 import runner_t
 from runner import Runner
